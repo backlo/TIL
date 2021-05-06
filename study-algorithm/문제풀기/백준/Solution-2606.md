@@ -7,8 +7,6 @@
 * Java
 
 ```java
-package backjoon;
-
 import java.util.Scanner;
 
 public class Solution2606 {
