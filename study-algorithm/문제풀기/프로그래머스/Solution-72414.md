@@ -8,7 +8,7 @@
 * Java
 
 ```java
-class Solution {
+class Solution72414 {
     public String solution(String play_time, String adv_time, String[] logs) {
         int playTime = convertSecond(play_time);
         int advTime = convertSecond(adv_time);
